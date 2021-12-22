@@ -3,31 +3,31 @@ page_title                                : Vegana 베가나                    
 
 # App Info
 ios_app_id                                : 1234793120                                # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
-ios_app_country                           : us                                        # Required outside USA. Enter 2 letter country code as in https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2
+ios_app_country                           : kr                                        # Required outside USA. Enter 2 letter country code as in https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2
 
 appstore_link                             :                                           # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
 playstore_link                            :                                           # Enter Google Play Store URL.
 presskit_download_link                    : https://vegana.org                                          # Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file).
                                                                                       # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
 
-app_icon                                  : assets/vegana_06.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
+app_icon                                  : assets/vegana_04.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  : Vegana(베가나)                                    # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 : Free                                   # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : Write a short tagline for your app.
+app_description                           : A fresh wave to the vegan community.
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
 
 
 # Information About Yourself
-your_name                                 : Kim Dong Uk
+your_name                                 : VEGANA
 your_link                                 : https://vegana.org
 your_city                                 : Seoul
 email_address                             : kimdonguk@vegana.org
 facebook_username                         :
 instagram_username                        :
 twitter_username                          :
-github_username                           : ziteun
+github_username                           :
 youtube_username                          :
 
 
@@ -35,40 +35,40 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : GitHub Pages Jekyll Theme
-    description                           : Designed for GitHub Pages. Fork. Edit _config.yml. Upload screenshot/video. Push to gh-pages branch. Voilá!
+  - title                                 : 비건 커뮤니티 지향
+    description                           : Vegana는 비건 커뮤니티를 지향합니다.
     fontawesome_icon_name                 : magic
 
-  - title                                 : iPhone Device Preview
-    description                           : Preview your app in the context of an iPhone device. Five different device colors included.
+  - title                                 : 건강한 커뮤니티
+    description                           : 앱을 사용하는 시간을 의미있게 만들어드립니다.
     fontawesome_icon_name                 : mobile
 
-  - title                                 : Video Support
-    description                           : Preview app video on the iPhone device simply by placing your video files in the videos folder.
+  - title                                 : 간편한 사용
+    description                           : 간편하게 사용할 수 있는 UI/UX를 제공해드립니다.
     fontawesome_icon_name                 : play-circle
 
-  - title                                 : Automatic Icon and Metadata
-    description                           : Enter iOS app ID in the _config.yml file to automatically fetch app icon, price and App Store Link.
+  - title                                 : 모두와 함꼐하세요
+    description                           : 꼭 채식을 하지 않으셔도 됩니다.
     fontawesome_icon_name                 : sync
 
-  - title                                 : Easy to Tweak
-    description                           : Tweak accent color, images, icons and transparency via the _config.yml file. No HTML/CSS needed.
+  - title                                 : 신선한 파도
+    description                           : 새로운 기능들을 업데이트해 나아갈 것입니다.
     fontawesome_icon_name                 : adjust
 
-  - title                                 : Feature List
-    description                           : Add features (like this one) to your site via the _config.yml file. No HTML/CSS needed.
+  - title                                 : 새로운 정보를 만나세요
+    description                           : Gusta 탭을 눌러보세요.
     fontawesome_icon_name                 : star
 
-  - title                                 : Smart App Banner
-    description                           : Display a smart app banner on iOS devices.
+  - title                                 : 안전한 데이터 관리
+    description                           : 사용자의 데이터를 안전하게 관리합니다.
     fontawesome_icon_name                 : arrow-alt-circle-down
 
-  - title                                 : Social Links
-    description                           : Easily add social media accounts and contact info in the footer via the _config.yml file. No HTML/CSS needed.
+  - title                                 : 의견 공유
+    description                           : 생각하는 것을 공유해보세요.
     fontawesome_icon_name                 : link
 
-  - title                                 : FontAwesome Support
-    description                           : Pick custom Font Awesome icons for the feature list via the _config.yml file. No HTML/CSS needed.
+  - title                                 : 피드백
+    description                           : 사용자들에게 의견을 피드백 받아보세요.
     fontawesome_icon_name                 : info-circle
 
   - title                                 : # New Feature Title
