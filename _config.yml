@@ -13,7 +13,7 @@ presskit_download_link                    : https://vegana.org                  
 app_icon                                  : assets/vegana_04.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  : Vegana(베가나)                                    # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 : Free                                   # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : A fresh wave to the vegan community.
+app_description                           : Fresh Wave. VEGANA. The Vegana will be launched in February 2022.
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
