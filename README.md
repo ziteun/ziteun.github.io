@@ -17,7 +17,7 @@ Designed for GitHub Pages for super easy set up.
 
 ✅ Site becomes live at GitHub Pages repository URL, e.g. `https://your-username.github.io/your-repo-name/`.
 
-<img src="https://emilbaehr.com/files/jayson1.png" width="440"> <img src="https://emilbaehr.com/files/slor1.png" width="440">
+<img src="https://vegana.org/files/jayson1.png" width="440"> <img src="https://vegana.org/files/slor1.png" width="440">
 
 
 
@@ -107,7 +107,7 @@ I'd love to see the sites you create using this little tool.
 [Donations are welcome](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=S8ZZT3JXJPN92&currency_code=USD&source=url)
 
 ## Author
-[Emil Baehr](https://emilbaehr.com/)
+[Emil Baehr](https://vegana.org/)
 
 ## License
 [MIT License](LICENSE)
