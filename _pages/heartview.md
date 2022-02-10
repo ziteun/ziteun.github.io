@@ -11,4 +11,5 @@ include_in_header: false
 
 **D-14구역에서 만나요!**
 
-![VeganFesta](site.veganfesta_poster) 
+
+![VeganFesta](https://user-images.githubusercontent.com/20352603/153465736-3517b8b2-4e26-4d39-8608-7daefe8836de.png)
